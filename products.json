@@ -1,0 +1,804 @@
+{
+  "products": [
+    {
+      "id": "p001",
+      "name": "Red Apple",
+      "category": "Fruits & Vegetables",
+      "priceCents": 149,
+      "stock": 200,
+      "imageUrl": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p002",
+      "name": "Banana Bunch",
+      "category": "Fruits & Vegetables",
+      "priceCents": 99,
+      "stock": 180,
+      "imageUrl": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p003",
+      "name": "Navel Orange",
+      "category": "Fruits & Vegetables",
+      "priceCents": 179,
+      "stock": 150,
+      "imageUrl": "https://images.unsplash.com/photo-1547514701-42782101795e?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p004",
+      "name": "Fresh Strawberries",
+      "category": "Fruits & Vegetables",
+      "priceCents": 349,
+      "stock": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p005",
+      "name": "Blueberries",
+      "category": "Fruits & Vegetables",
+      "priceCents": 399,
+      "stock": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p006",
+      "name": "Broccoli",
+      "category": "Fruits & Vegetables",
+      "priceCents": 199,
+      "stock": 110,
+      "imageUrl": "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p007",
+      "name": "Carrots (1 kg)",
+      "category": "Fruits & Vegetables",
+      "priceCents": 129,
+      "stock": 160,
+      "imageUrl": "https://images.unsplash.com/photo-1447175008436-054170c2e979?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p008",
+      "name": "Spinach Bag",
+      "category": "Fruits & Vegetables",
+      "priceCents": 249,
+      "stock": 85,
+      "imageUrl": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p009",
+      "name": "Cherry Tomatoes",
+      "category": "Fruits & Vegetables",
+      "priceCents": 299,
+      "stock": 120,
+      "imageUrl": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p010",
+      "name": "Avocado",
+      "category": "Fruits & Vegetables",
+      "priceCents": 189,
+      "stock": 95,
+      "imageUrl": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p011",
+      "name": "Whole Milk (1L)",
+      "category": "Dairy & Eggs",
+      "priceCents": 229,
+      "stock": 300,
+      "imageUrl": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p012",
+      "name": "Greek Yogurt",
+      "category": "Dairy & Eggs",
+      "priceCents": 279,
+      "stock": 140,
+      "imageUrl": "https://images.unsplash.com/photo-1571212515416-fca988083c7d?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p013",
+      "name": "Cheddar Cheese (200g)",
+      "category": "Dairy & Eggs",
+      "priceCents": 459,
+      "stock": 100,
+      "imageUrl": "https://images.unsplash.com/photo-1618164435735-413d3b066c9a?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p014",
+      "name": "Eggs (12 pack)",
+      "category": "Dairy & Eggs",
+      "priceCents": 349,
+      "stock": 250,
+      "imageUrl": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p015",
+      "name": "Butter (250g)",
+      "category": "Dairy & Eggs",
+      "priceCents": 389,
+      "stock": 130,
+      "imageUrl": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p016",
+      "name": "Mozzarella Cheese",
+      "category": "Dairy & Eggs",
+      "priceCents": 499,
+      "stock": 80,
+      "imageUrl": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p017",
+      "name": "Sour Cream",
+      "category": "Dairy & Eggs",
+      "priceCents": 219,
+      "stock": 110,
+      "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p018",
+      "name": "Cream Cheese",
+      "category": "Dairy & Eggs",
+      "priceCents": 329,
+      "stock": 95,
+      "imageUrl": "https://images.unsplash.com/photo-1559561853-08451507cbe7?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p019",
+      "name": "Chicken Breast (500g)",
+      "category": "Meat & Seafood",
+      "priceCents": 699,
+      "stock": 80,
+      "imageUrl": "https://images.unsplash.com/photo-1604503468506-a8da13d11bea?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p020",
+      "name": "Ground Beef (500g)",
+      "category": "Meat & Seafood",
+      "priceCents": 799,
+      "stock": 70,
+      "imageUrl": "https://images.unsplash.com/photo-1603048297172-c92544798d5a?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p021",
+      "name": "Salmon Fillet (300g)",
+      "category": "Meat & Seafood",
+      "priceCents": 1199,
+      "stock": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p022",
+      "name": "Pork Ribs (1kg)",
+      "category": "Meat & Seafood",
+      "priceCents": 999,
+      "stock": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p023",
+      "name": "Shrimp (500g)",
+      "category": "Meat & Seafood",
+      "priceCents": 1099,
+      "stock": 60,
+      "imageUrl": "https://images.unsplash.com/photo-1559737558-2f5a35f4523b?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p024",
+      "name": "Turkey Breast (400g)",
+      "category": "Meat & Seafood",
+      "priceCents": 849,
+      "stock": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1574672280600-4accfa5b6f98?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p025",
+      "name": "Sourdough Bread",
+      "category": "Bakery",
+      "priceCents": 499,
+      "stock": 60,
+      "imageUrl": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p026",
+      "name": "Whole Wheat Bread",
+      "category": "Bakery",
+      "priceCents": 379,
+      "stock": 80,
+      "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p027",
+      "name": "Croissant (4 pack)",
+      "category": "Bakery",
+      "priceCents": 429,
+      "stock": 70,
+      "imageUrl": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p028",
+      "name": "Blueberry Muffins (6 pack)",
+      "category": "Bakery",
+      "priceCents": 549,
+      "stock": 55,
+      "imageUrl": "https://images.unsplash.com/photo-1558401391-7899b4a7f72f?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p029",
+      "name": "Bagels (6 pack)",
+      "category": "Bakery",
+      "priceCents": 399,
+      "stock": 65,
+      "imageUrl": "https://images.unsplash.com/photo-1592415486689-125cbbfcdfed?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p030",
+      "name": "Chocolate Cake",
+      "category": "Bakery",
+      "priceCents": 1299,
+      "stock": 20,
+      "imageUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p031",
+      "name": "Orange Juice (1L)",
+      "category": "Beverages",
+      "priceCents": 349,
+      "stock": 200,
+      "imageUrl": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p032",
+      "name": "Sparkling Water (1.5L)",
+      "category": "Beverages",
+      "priceCents": 179,
+      "stock": 250,
+      "imageUrl": "https://images.unsplash.com/photo-1601370552761-a94c0cb7fbb5?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p033",
+      "name": "Green Tea (20 bags)",
+      "category": "Beverages",
+      "priceCents": 299,
+      "stock": 160,
+      "imageUrl": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p034",
+      "name": "Ground Coffee (250g)",
+      "category": "Beverages",
+      "priceCents": 799,
+      "stock": 130,
+      "imageUrl": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p035",
+      "name": "Cola Soda (2L)",
+      "category": "Beverages",
+      "priceCents": 249,
+      "stock": 300,
+      "imageUrl": "https://images.unsplash.com/photo-1561758033-d89a9ad46330?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p036",
+      "name": "Apple Juice (1L)",
+      "category": "Beverages",
+      "priceCents": 319,
+      "stock": 175,
+      "imageUrl": "https://images.unsplash.com/photo-1576673442511-7e39b6545c87?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p037",
+      "name": "Energy Drink (250ml)",
+      "category": "Beverages",
+      "priceCents": 199,
+      "stock": 220,
+      "imageUrl": "https://images.unsplash.com/photo-1622543925917-763c34d1a86e?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p038",
+      "name": "Coconut Water (330ml)",
+      "category": "Beverages",
+      "priceCents": 279,
+      "stock": 140,
+      "imageUrl": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p039",
+      "name": "Potato Chips (150g)",
+      "category": "Snacks",
+      "priceCents": 249,
+      "stock": 280,
+      "imageUrl": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p040",
+      "name": "Popcorn (100g)",
+      "category": "Snacks",
+      "priceCents": 179,
+      "stock": 200,
+      "imageUrl": "https://images.unsplash.com/photo-1585647347483-22b66260dfff?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p041",
+      "name": "Mixed Nuts (200g)",
+      "category": "Snacks",
+      "priceCents": 599,
+      "stock": 110,
+      "imageUrl": "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p042",
+      "name": "Dark Chocolate Bar (100g)",
+      "category": "Snacks",
+      "priceCents": 299,
+      "stock": 150,
+      "imageUrl": "https://images.unsplash.com/photo-1606312619070-d48b7c7a0b0e?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p043",
+      "name": "Granola Bar (6 pack)",
+      "category": "Snacks",
+      "priceCents": 449,
+      "stock": 130,
+      "imageUrl": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p044",
+      "name": "Pretzels (200g)",
+      "category": "Snacks",
+      "priceCents": 219,
+      "stock": 160,
+      "imageUrl": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p045",
+      "name": "Gummy Bears (250g)",
+      "category": "Snacks",
+      "priceCents": 199,
+      "stock": 180,
+      "imageUrl": "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p046",
+      "name": "Rice Cakes (130g)",
+      "category": "Snacks",
+      "priceCents": 189,
+      "stock": 140,
+      "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p047",
+      "name": "Canned Tuna (185g)",
+      "category": "Canned Goods",
+      "priceCents": 199,
+      "stock": 300,
+      "imageUrl": "https://images.unsplash.com/photo-1584255014406-2a68ea38e48c?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p048",
+      "name": "Canned Tomatoes (400g)",
+      "category": "Canned Goods",
+      "priceCents": 149,
+      "stock": 350,
+      "imageUrl": "https://images.unsplash.com/photo-1612257999134-4f2c4e0e0a2e?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p049",
+      "name": "Black Beans (400g)",
+      "category": "Canned Goods",
+      "priceCents": 129,
+      "stock": 400,
+      "imageUrl": "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p050",
+      "name": "Coconut Milk (400ml)",
+      "category": "Canned Goods",
+      "priceCents": 179,
+      "stock": 220,
+      "imageUrl": "https://images.unsplash.com/photo-1638275106436-6462b28e4d08?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p051",
+      "name": "Chickpeas (400g)",
+      "category": "Canned Goods",
+      "priceCents": 139,
+      "stock": 280,
+      "imageUrl": "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p052",
+      "name": "Canned Corn (340g)",
+      "category": "Canned Goods",
+      "priceCents": 119,
+      "stock": 320,
+      "imageUrl": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p053",
+      "name": "Tomato Soup (400ml)",
+      "category": "Canned Goods",
+      "priceCents": 159,
+      "stock": 250,
+      "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p054",
+      "name": "White Rice (1kg)",
+      "category": "Grains & Pasta",
+      "priceCents": 299,
+      "stock": 400,
+      "imageUrl": "https://images.unsplash.com/photo-1536304993881-ff86e0c9f0e7?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p055",
+      "name": "Spaghetti (500g)",
+      "category": "Grains & Pasta",
+      "priceCents": 229,
+      "stock": 350,
+      "imageUrl": "https://images.unsplash.com/photo-1551462147-ff29053bfc14?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p056",
+      "name": "Penne Pasta (500g)",
+      "category": "Grains & Pasta",
+      "priceCents": 219,
+      "stock": 300,
+      "imageUrl": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p057",
+      "name": "Oats (500g)",
+      "category": "Grains & Pasta",
+      "priceCents": 259,
+      "stock": 270,
+      "imageUrl": "https://images.unsplash.com/photo-1614961233913-a5113a4a34ed?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p058",
+      "name": "All-Purpose Flour (1kg)",
+      "category": "Grains & Pasta",
+      "priceCents": 199,
+      "stock": 320,
+      "imageUrl": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p059",
+      "name": "Quinoa (400g)",
+      "category": "Grains & Pasta",
+      "priceCents": 599,
+      "stock": 130,
+      "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p060",
+      "name": "Olive Oil (500ml)",
+      "category": "Oils & Condiments",
+      "priceCents": 899,
+      "stock": 150,
+      "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p061",
+      "name": "Ketchup (400g)",
+      "category": "Oils & Condiments",
+      "priceCents": 249,
+      "stock": 220,
+      "imageUrl": "https://images.unsplash.com/photo-1571689230986-c2dcb5f4a7ad?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p062",
+      "name": "Yellow Mustard (250g)",
+      "category": "Oils & Condiments",
+      "priceCents": 199,
+      "stock": 190,
+      "imageUrl": "https://images.unsplash.com/photo-1613844237701-8f3664fc2eff?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p063",
+      "name": "Soy Sauce (200ml)",
+      "category": "Oils & Condiments",
+      "priceCents": 279,
+      "stock": 170,
+      "imageUrl": "https://images.unsplash.com/photo-1630851840822-ccfcf8d04f58?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p064",
+      "name": "Mayonnaise (350g)",
+      "category": "Oils & Condiments",
+      "priceCents": 329,
+      "stock": 160,
+      "imageUrl": "https://images.unsplash.com/photo-1529563021893-cc83c992d75d?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p065",
+      "name": "Hot Sauce (150ml)",
+      "category": "Oils & Condiments",
+      "priceCents": 349,
+      "stock": 140,
+      "imageUrl": "https://images.unsplash.com/photo-1606803696430-b6ac0c2efac8?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p066",
+      "name": "Frozen Pizza (Margherita)",
+      "category": "Frozen Foods",
+      "priceCents": 799,
+      "stock": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p067",
+      "name": "Frozen French Fries (1kg)",
+      "category": "Frozen Foods",
+      "priceCents": 449,
+      "stock": 120,
+      "imageUrl": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p068",
+      "name": "Frozen Peas (500g)",
+      "category": "Frozen Foods",
+      "priceCents": 299,
+      "stock": 150,
+      "imageUrl": "https://images.unsplash.com/photo-1587334207209-3ef4db06a99a?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p069",
+      "name": "Ice Cream Vanilla (1L)",
+      "category": "Frozen Foods",
+      "priceCents": 649,
+      "stock": 85,
+      "imageUrl": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p070",
+      "name": "Frozen Waffles (6 pack)",
+      "category": "Frozen Foods",
+      "priceCents": 399,
+      "stock": 100,
+      "imageUrl": "https://images.unsplash.com/photo-1584534671381-f15a4f6abf98?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p071",
+      "name": "Frozen Shrimp Dumplings",
+      "category": "Frozen Foods",
+      "priceCents": 749,
+      "stock": 70,
+      "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p072",
+      "name": "Dish Soap (500ml)",
+      "category": "Cleaning Supplies",
+      "priceCents": 299,
+      "stock": 250,
+      "imageUrl": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p073",
+      "name": "All-Purpose Cleaner (750ml)",
+      "category": "Cleaning Supplies",
+      "priceCents": 349,
+      "stock": 200,
+      "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p074",
+      "name": "Laundry Detergent (1kg)",
+      "category": "Cleaning Supplies",
+      "priceCents": 899,
+      "stock": 180,
+      "imageUrl": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p075",
+      "name": "Paper Towels (4 rolls)",
+      "category": "Cleaning Supplies",
+      "priceCents": 499,
+      "stock": 300,
+      "imageUrl": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p076",
+      "name": "Bathroom Bleach (1L)",
+      "category": "Cleaning Supplies",
+      "priceCents": 249,
+      "stock": 190,
+      "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p077",
+      "name": "Shampoo (400ml)",
+      "category": "Personal Care",
+      "priceCents": 699,
+      "stock": 160,
+      "imageUrl": "https://images.unsplash.com/photo-1585751119414-ef2636f8aede?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p078",
+      "name": "Conditioner (400ml)",
+      "category": "Personal Care",
+      "priceCents": 749,
+      "stock": 140,
+      "imageUrl": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p079",
+      "name": "Body Lotion (250ml)",
+      "category": "Personal Care",
+      "priceCents": 599,
+      "stock": 130,
+      "imageUrl": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p080",
+      "name": "Toothpaste (120g)",
+      "category": "Personal Care",
+      "priceCents": 349,
+      "stock": 280,
+      "imageUrl": "https://images.unsplash.com/photo-1571946764416-a0e6c52d2265?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p081",
+      "name": "Deodorant Stick (50g)",
+      "category": "Personal Care",
+      "priceCents": 449,
+      "stock": 200,
+      "imageUrl": "https://images.unsplash.com/photo-1622618991746-fe6004db3a47?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p082",
+      "name": "Sunscreen SPF 50 (100ml)",
+      "category": "Personal Care",
+      "priceCents": 1299,
+      "stock": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p083",
+      "name": "Peanut Butter (350g)",
+      "category": "Spreads & Jams",
+      "priceCents": 449,
+      "stock": 180,
+      "imageUrl": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p084",
+      "name": "Strawberry Jam (250g)",
+      "category": "Spreads & Jams",
+      "priceCents": 349,
+      "stock": 160,
+      "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p085",
+      "name": "Nutella (400g)",
+      "category": "Spreads & Jams",
+      "priceCents": 699,
+      "stock": 150,
+      "imageUrl": "https://images.unsplash.com/photo-1604690263752-0b83e6fc8cdb?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p086",
+      "name": "Honey (500g)",
+      "category": "Spreads & Jams",
+      "priceCents": 799,
+      "stock": 120,
+      "imageUrl": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p087",
+      "name": "Corn Flakes (375g)",
+      "category": "Breakfast & Cereals",
+      "priceCents": 399,
+      "stock": 200,
+      "imageUrl": "https://images.unsplash.com/photo-1521483451569-e33803c0330c?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p088",
+      "name": "Granola (500g)",
+      "category": "Breakfast & Cereals",
+      "priceCents": 549,
+      "stock": 170,
+      "imageUrl": "https://images.unsplash.com/photo-1517093728532-a6f3a6e77c98?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p089",
+      "name": "Maple Syrup (250ml)",
+      "category": "Breakfast & Cereals",
+      "priceCents": 899,
+      "stock": 110,
+      "imageUrl": "https://images.unsplash.com/photo-1589135716681-8a8e99af52b2?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p090",
+      "name": "Pancake Mix (400g)",
+      "category": "Breakfast & Cereals",
+      "priceCents": 349,
+      "stock": 140,
+      "imageUrl": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p091",
+      "name": "Salt (1kg)",
+      "category": "Spices & Seasonings",
+      "priceCents": 99,
+      "stock": 500,
+      "imageUrl": "https://images.unsplash.com/photo-1529802898779-2e7f30fe5f6e?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p092",
+      "name": "Black Pepper (100g)",
+      "category": "Spices & Seasonings",
+      "priceCents": 249,
+      "stock": 350,
+      "imageUrl": "https://images.unsplash.com/photo-1599909533731-5d2feead8782?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p093",
+      "name": "Paprika (75g)",
+      "category": "Spices & Seasonings",
+      "priceCents": 299,
+      "stock": 280,
+      "imageUrl": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p094",
+      "name": "Garlic Powder (80g)",
+      "category": "Spices & Seasonings",
+      "priceCents": 279,
+      "stock": 260,
+      "imageUrl": "https://images.unsplash.com/photo-1615484477778-ca3b77940c25?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p095",
+      "name": "Cumin (60g)",
+      "category": "Spices & Seasonings",
+      "priceCents": 259,
+      "stock": 240,
+      "imageUrl": "https://images.unsplash.com/photo-1615484477778-ca3b77940c25?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p096",
+      "name": "Watermelon (whole)",
+      "category": "Fruits & Vegetables",
+      "priceCents": 899,
+      "stock": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1563114773-84221bd62daa?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p097",
+      "name": "Mango",
+      "category": "Fruits & Vegetables",
+      "priceCents": 229,
+      "stock": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1553279768-865429fa0078?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p098",
+      "name": "Lemon (pack of 4)",
+      "category": "Fruits & Vegetables",
+      "priceCents": 149,
+      "stock": 170,
+      "imageUrl": "https://images.unsplash.com/photo-1557800636-894a64c1696f?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p099",
+      "name": "White Onion (1kg)",
+      "category": "Fruits & Vegetables",
+      "priceCents": 119,
+      "stock": 220,
+      "imageUrl": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400&h=400&fit=crop"
+    },
+    {
+      "id": "p100",
+      "name": "Garlic (head)",
+      "category": "Fruits & Vegetables",
+      "priceCents": 89,
+      "stock": 300,
+      "imageUrl": "https://images.unsplash.com/photo-1540148426945-6cf22a6b2383?w=400&h=400&fit=crop"
+    }
+  ]
+}
