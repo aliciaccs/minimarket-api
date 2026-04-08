@@ -45,7 +45,7 @@
       "name": "Broccoli",
       "category": "Fruits & Vegetables",
       "priceCents": 199,
-      "stock": 110,
+      "stock": 0,
       "imageUrl": "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?w=400&h=400&fit=crop"
     },
     {
